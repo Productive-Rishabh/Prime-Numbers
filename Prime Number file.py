@@ -16,4 +16,6 @@ if x>1000:
 if x%i!=0 and x<1000:
     print(x,"Prime Number")
 
+Print("program to check number is prime or not")
+
     
